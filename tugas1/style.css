@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(76, 153, 220);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-siswa {
+    background-color: rgb(45, 119, 184);
+    box-shadow: 0 0 5px 2px black;
+    text-align: center;
+    margin: 70px auto;
+}
+
+.list-siswa .head th {
+    font-weight: 600;
+    padding: 5px;
+}
+
+.list-siswa .no {
+    width: 50px;
+}
+
+.list-siswa .about {
+    width: 100px;
+}
+
+.list-siswa img {
+    width: 120px;
+    height: 120px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px 1px black;
+}
+
+.list-siswa a {
+    color: white;
+    padding: 8px;
+    transition: .3s;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.list-siswa a:hover {
+    background-color: rgb(37, 96, 149);
+}
+
+.list-siswa td {
+    font-size: 14px;
+    font-weight: 500;
+}
