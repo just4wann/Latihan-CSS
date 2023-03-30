@@ -1,2 +1,0 @@
-# Latihan-CSS
-Belajar CSS
